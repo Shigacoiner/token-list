@@ -57,6 +57,23 @@
   },
   "timestamp": "2021-03-03T19:57:21+0000",
   "tokens": [
+     {
+      "chainId": 101,
+      "address": "9HZ1r2tgwvWbZHTRJPhaxpJ359Zija2JmMTtNvgnL1gh",
+      "symbol": "SHGA",
+      "name": "SHIGA coin",
+      "decimals": 3,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/kisspng-medical-cannabis-logo-cannabis-industry-hemp-cannabis-5ab45757c667d9.5643532215217682798127.png",
+      "tags": [
+        "community-token",
+        "DAO-fork"
+      ],
+      "extensions": {
+        "website": "https://solanadickbutt.com",
+        "twitter": "https://twitter.com/SolanaDickButt",
+        "discord": "https://discord.com/invite/solanadickbutt"
+      }
+    },
     {
       "chainId": 101,
       "address": "HfYFjMKNZygfMC8LsQ8LtpPsPxEJoXJx4M6tqi75Hajo",
